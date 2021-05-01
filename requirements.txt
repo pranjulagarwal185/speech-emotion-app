@@ -5,6 +5,4 @@ sklearn
 pydub
 librosa
 soundfile
-numba
-llvmlite
 libsndfile1
