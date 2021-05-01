@@ -7,3 +7,4 @@ librosa
 soundfile
 numba
 llvmlite
+sndfile
